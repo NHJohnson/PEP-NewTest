@@ -3,3 +3,4 @@ subdir/d.out
 e.out
 /new_subdir/f.out
 new_subdir/*/
+._*
